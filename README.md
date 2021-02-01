@@ -1,2 +1,2 @@
 ### Hi there 👋
-![naruto](https://www.vhv.rs/dpng/d/309-3092052_sage-mode-naruto-uzumaki-hd-png-download.png?raw=true "Title")
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsuriCohen)](https://github.com/anuraghazra/github-readme-stats)
